@@ -1,4 +1,4 @@
-import Book from './js/bclass.js';
+import Book from './modules/bclass.js';
 import { DateTime } from './node_modules/luxon/build/es6/luxon.js';
 
 function displayBooks() {
